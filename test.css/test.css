@@ -1,0 +1,22 @@
+:root {
+  --int: 1.5;
+  --scale0: 1rem;
+  --scale-1: calc(var(--scale4) / var(--int));
+  --scale-2: calc(var(--scale3) / var(--int));
+  --scale1: calc(var(--scale0) * var(--int));
+  --scale2: calc(var(--scale1) * var(--int));
+}
+
+body {
+  display: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary {
+  list-style: none;
+}
+
+/*# sourceMappingURL=test.css.map */

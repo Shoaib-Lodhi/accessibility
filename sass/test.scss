@@ -1,0 +1,16 @@
+summary::-webkit-details-marker {
+  display: none;
+}
+
+details{
+  transition: all ease-in-out 0.5s;
+}
+
+summary {
+  list-style: none;
+  transition: all ease-in-out 0.5s;
+}
+
+p{
+  transition: all ease-in-out 0.5s;
+}

@@ -1,0 +1,174 @@
+.partnersCircleAnimation{
+    margin: auto;
+    width: 900px;
+}
+
+.st0 {
+    opacity: 0.434;
+    fill: #E3F4FB;
+}
+
+.fill-none {
+    fill: none;
+}
+
+.fill-white {
+    fill: #FFFFFF;
+}
+
+.fill-green {
+    fill: #1395A6;
+}
+
+.fill-green-2 {
+    fill: #00A5B5;
+}
+
+.st1 {
+    fill: #ffffff;
+}
+
+.st2 {
+    fill: none;
+    stroke: #6C84B5;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+    stroke-dasharray: 18, 25;
+}
+
+.st3 {
+    fill: none;
+    stroke: #C6C6C6;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+    stroke-dasharray: 18, 25;
+}
+
+.st4 {
+    fill: none;
+    stroke: #66CBD8;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+    stroke-dasharray: 18, 25;
+}
+
+.st5 {
+    stroke: #302F35;
+    stroke-width: 1;
+    stroke-miterlimit: 3.9998;
+}
+
+.st6 {
+    clip-path: url(#SVGID_00000001628244254019187380000008546783186478757291_);
+}
+
+.st7 {
+    stroke: #302F35;
+}
+
+.st8 {
+    fill: none;
+    stroke: #F3FAFD;
+    stroke-width: 17;
+    stroke-linecap: round;
+}
+
+.st9 {
+    clip-path: url(#SVGID_00000143599424638582851720000002628523939028682385_);
+}
+
+.st10 {
+    fill: #214185;
+    stroke: #214185;
+}
+
+.st11 {
+    clip-path: url(#SVGID_00000085220411531159279560000010699947101479362234_);
+}
+
+.st12 {
+    fill: #214185;
+    stroke: #214185;
+    stroke-width: 0.9992;
+    stroke-miterlimit: 3.997;
+}
+
+.st13 {
+    clip-path: url(#SVGID_00000163058154876355418270000014943103516666465694_);
+}
+
+.st14 {
+    fill: #1395A6;
+}
+
+.st15 {
+    clip-path: url(#SVGID_00000136414023824981792730000006238323202376225191_);
+}
+
+.st16 {
+    fill: #00A5B5;
+}
+
+
+.partnersAnim {
+    position: relative;
+    margin: 100px 0;
+}
+
+.svgContainer {
+    position: absolute;
+    top: 50px;
+    display: none;
+    z-index: 9;
+}
+
+.svgContainer.fadeInImg{
+    display: block;
+}
+
+.svgPopup {
+    position: relative;
+    width: 650px;
+    max-width: 100%;
+    height: auto;
+    background-color: #ffffff;
+    padding: 15px;
+    border: 1px solid #F7F7F7;
+    box-shadow: 0px 0px 24px #0A0A820A;
+    border-radius: 20px;
+}
+
+.svgShow {
+    display: block;
+}
+
+.svgImage {
+    background: #fff;
+    display: flex;
+    height: 180px;
+    align-items: center;
+    justify-content: center;
+    margin: auto auto 40px auto;
+}
+
+#svgLogo {
+    max-width: 100%;
+    height: auto;
+}
+
+.popUpContent {
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+}
+
+.popUpContent p{
+    font-size: 16px;
+}
+
+#intro{
+    text-align: center;
+}

@@ -3,16 +3,16 @@ summary::-webkit-details-marker {
 }
 
 details {
-  transition: all ease-in-out 0.5s;
+  transition: all ease-in-out 0.25s;
 }
 
 summary {
   list-style: none;
-  transition: all ease-in-out 0.5s;
+  transition: all ease-in-out 0.25s;
 }
 
 p {
-  transition: all ease-in-out 0.5s;
+  transition: all ease-in-out 0.25s;
 }
 
 /*# sourceMappingURL=test.css.map */
